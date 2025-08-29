@@ -22,6 +22,10 @@ Blockchain is one of the most influential technologies of the digital era. It is
 - A simpler version with real-world examples for beginners.
 
 ## Output
+
+### Name: KISHORE N
+### Reg No. 212222240049
+
 ### Step 1: Undergraduate-Level Summary (120–150 words)
 
 Blockchain is a decentralized digital ledger that records transactions in blocks linked sequentially. Each block includes transaction data, a timestamp, and a cryptographic hash of the previous block, forming a secure chain resistant to tampering. Unlike centralized systems, blockchain is distributed across many nodes, ensuring transparency and reducing reliance on intermediaries. New entries are validated by consensus mechanisms such as Proof of Work (miners solve puzzles) or Proof of Stake (validators commit tokens). Transactions are secured with public-private key cryptography, while smart contracts—self-executing programs—enable automation without intermediaries. Benefits include enhanced security, transparency, and traceability, though challenges such as scalability, high energy consumption (for PoW), and governance complexities remain. Blockchains can be public (open to all) or permissioned (restricted). Beyond cryptocurrencies, they are applied in finance, supply-chain tracking, and asset verification.
